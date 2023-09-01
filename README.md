@@ -30,4 +30,5 @@ Contributions are welcome! Fork, make changes, and open a pull request.
 ## License
 This project is licensed under the MIT License.
 
+<br /> <br />
 Feel free to customize it further to fit your specific needs.
