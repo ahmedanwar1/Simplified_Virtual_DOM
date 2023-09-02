@@ -23,6 +23,7 @@ Create a virtual DOM tree and use generateVirtualElement to update the real DOM.
 2. Update the virtual DOM tree to reflect changes.
 3. Render efficiently to the real DOM.
 4. Support for event handling.
+5. Support for states same as React.js
 <br /><br />
 ## Contributing
 Contributions are welcome! Fork, make changes, and open a pull request.
